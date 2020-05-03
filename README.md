@@ -1,2 +1,2 @@
 # pomerojm.github.io
-JASON and AJAX example
+JSON and AJAX example
